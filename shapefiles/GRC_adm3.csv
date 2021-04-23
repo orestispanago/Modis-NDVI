@@ -1,0 +1,326 @@
+"OBJECTID","ID_0","ISO","NAME_0","ID_1","NAME_1","ID_2","NAME_2","ID_3","NAME_3","TYPE_3","ENGTYPE_3","NL_NAME_3","VARNAME_3"
+1,89,"GRC","Greece",1,"Aegean",1,"North Aegean",1,"Agios Efstratios","Dímos","Municipality","<U+0391><U+03B3><U+03AF><U+03BF><U+03C5> <U+0395><U+03C5>st<U+03C1>at<U+03AF><U+03BF><U+03C5>",NA
+2,89,"GRC","Greece",1,"Aegean",1,"North Aegean",2,"Chios","Dímos","Municipality","<U+03A7><U+03AF><U+03BF><U+03C5>",NA
+3,89,"GRC","Greece",1,"Aegean",1,"North Aegean",3,"Fournoi Korseon","Dímos","Municipality","F<U+03BF><U+03CD><U+03C1><U+03BD><U+03C9><U+03BD> <U+039A><U+03BF><U+03C1>se<U+03CE><U+03BD>",NA
+4,89,"GRC","Greece",1,"Aegean",1,"North Aegean",4,"Icaria","Dímos","Municipality","<U+0399><U+03BA>a<U+03C1><U+03B9><U+03AC><U+03C2>",NA
+5,89,"GRC","Greece",1,"Aegean",1,"North Aegean",5,"Lemnos","Dímos","Municipality","<U+039B><U+03AE>µ<U+03BD><U+03BF><U+03C5>",NA
+6,89,"GRC","Greece",1,"Aegean",1,"North Aegean",6,"Lesbos","Dímos","Municipality","<U+039B><U+03AD>sß<U+03BF><U+03C5>",NA
+7,89,"GRC","Greece",1,"Aegean",1,"North Aegean",7,"Oinousses","Dímos","Municipality","<U+039F><U+03B9><U+03BD><U+03BF><U+03C5>ss<U+03CE><U+03BD>",NA
+8,89,"GRC","Greece",1,"Aegean",1,"North Aegean",8,"Psara","Dímos","Municipality","<U+03A8>a<U+03C1><U+03CE><U+03BD>",NA
+9,89,"GRC","Greece",1,"Aegean",1,"North Aegean",9,"Samos","Dímos","Municipality","S<U+03AC>µ<U+03BF><U+03C5>",NA
+10,89,"GRC","Greece",1,"Aegean",2,"South Aegean",10,"Agathonisi","Dímos","Municipality","<U+0391><U+03B3>a<U+03B8><U+03BF><U+03BD><U+03B7>s<U+03AF><U+03BF><U+03C5>",NA
+11,89,"GRC","Greece",1,"Aegean",2,"South Aegean",11,"Amorgos","Dímos","Municipality","<U+0391>µ<U+03BF><U+03C1><U+03B3><U+03BF><U+03CD>",NA
+12,89,"GRC","Greece",1,"Aegean",2,"South Aegean",12,"Anafi","Dímos","Municipality","<U+0391><U+03BD><U+03AC>f<U+03B7><U+03C2>",NA
+13,89,"GRC","Greece",1,"Aegean",2,"South Aegean",13,"Andros","Dímos","Municipality","<U+0386><U+03BD>d<U+03C1><U+03BF><U+03C5>",NA
+14,89,"GRC","Greece",1,"Aegean",2,"South Aegean",14,"Antiparos","Dímos","Municipality","<U+0391><U+03BD>t<U+03B9>p<U+03AC><U+03C1><U+03BF><U+03C5>",NA
+15,89,"GRC","Greece",1,"Aegean",2,"South Aegean",15,"Astypalaia","Dímos","Municipality","<U+0391>st<U+03C5>pa<U+03BB>a<U+03AF>a<U+03C2>",NA
+16,89,"GRC","Greece",1,"Aegean",2,"South Aegean",16,"Chalki","Dímos","Municipality","<U+03A7><U+03AC><U+03BB><U+03BA><U+03B7><U+03C2>",NA
+17,89,"GRC","Greece",1,"Aegean",2,"South Aegean",17,"Folegandros","Dímos","Municipality","F<U+03BF><U+03BB>e<U+03B3><U+03AC><U+03BD>d<U+03C1><U+03BF><U+03C5>",NA
+18,89,"GRC","Greece",1,"Aegean",2,"South Aegean",18,"Ios ","Dímos","Municipality","<U+0399><U+03B7>t<U+03CE><U+03BD>",NA
+19,89,"GRC","Greece",1,"Aegean",2,"South Aegean",19,"Kalymnos","Dímos","Municipality","<U+039A>a<U+03BB><U+03C5>µ<U+03BD><U+03AF><U+03C9><U+03BD>",NA
+20,89,"GRC","Greece",1,"Aegean",2,"South Aegean",20,"Karpathos","Dímos","Municipality","<U+039A>a<U+03C1>p<U+03AC><U+03B8><U+03BF><U+03C5>",NA
+21,89,"GRC","Greece",1,"Aegean",2,"South Aegean",21,"Kasos","Dímos","Municipality","<U+039A><U+03AC>s<U+03BF><U+03C5>",NA
+22,89,"GRC","Greece",1,"Aegean",2,"South Aegean",22,"Kea ","Dímos","Municipality","<U+039A><U+03AD>a<U+03C2>",NA
+23,89,"GRC","Greece",1,"Aegean",2,"South Aegean",23,"Kimolos","Dímos","Municipality","<U+039A><U+03B9>µ<U+03CE><U+03BB><U+03BF><U+03C5>",NA
+24,89,"GRC","Greece",1,"Aegean",2,"South Aegean",24,"Kos","Dímos","Municipality","<U+039A><U+03C9>",NA
+25,89,"GRC","Greece",1,"Aegean",2,"South Aegean",25,"Kythnos","Dímos","Municipality","<U+039A><U+03CD><U+03B8><U+03BD><U+03BF><U+03C5>",NA
+26,89,"GRC","Greece",1,"Aegean",2,"South Aegean",26,"Leipsoi","Dímos","Municipality","<U+039B>e<U+03B9><U+03C8><U+03CE><U+03BD>",NA
+27,89,"GRC","Greece",1,"Aegean",2,"South Aegean",27,"Leros","Dímos","Municipality","<U+039B><U+03AD><U+03C1><U+03BF><U+03C5>",NA
+28,89,"GRC","Greece",1,"Aegean",2,"South Aegean",28,"Milos","Dímos","Municipality","<U+039C><U+03AE><U+03BB><U+03BF><U+03C5>",NA
+29,89,"GRC","Greece",1,"Aegean",2,"South Aegean",29,"Mykonos","Dímos","Municipality","<U+039C><U+03C5><U+03BA><U+03CC><U+03BD><U+03BF><U+03C5>",NA
+30,89,"GRC","Greece",1,"Aegean",2,"South Aegean",30,"Naxos and Lesser Cyclades","Dímos","Municipality","<U+039D><U+03AC><U+03BE><U+03BF><U+03C5> <U+03BA>a<U+03B9> <U+039C><U+03B9><U+03BA><U+03C1><U+03CE><U+03BD> <U+039A><U+03C5><U+03BA><U+03BB><U+03AC>d<U+03C9><U+03BD>",NA
+31,89,"GRC","Greece",1,"Aegean",2,"South Aegean",31,"Nisyros","Dímos","Municipality","<U+039D><U+03B9>s<U+03CD><U+03C1><U+03BF><U+03C5>",NA
+32,89,"GRC","Greece",1,"Aegean",2,"South Aegean",32,"Paros","Dímos","Municipality","<U+03A0><U+03AC><U+03C1><U+03BF><U+03C5>",NA
+33,89,"GRC","Greece",1,"Aegean",2,"South Aegean",33,"Patmos","Dímos","Municipality","<U+03A0><U+03AC>tµ<U+03BF><U+03C5>",NA
+34,89,"GRC","Greece",1,"Aegean",2,"South Aegean",34,"Rhodes","Dímos","Municipality","<U+03A1><U+03CC>d<U+03BF><U+03C5>",NA
+35,89,"GRC","Greece",1,"Aegean",2,"South Aegean",35,"Santorini","Dímos","Municipality","T<U+03AE><U+03C1>a<U+03C2>",NA
+36,89,"GRC","Greece",1,"Aegean",2,"South Aegean",36,"Serifos","Dímos","Municipality","Se<U+03C1><U+03AF>f<U+03BF><U+03C5>",NA
+37,89,"GRC","Greece",1,"Aegean",2,"South Aegean",37,"Sifnos","Dímos","Municipality","S<U+03AF>f<U+03BD><U+03BF><U+03C5>",NA
+38,89,"GRC","Greece",1,"Aegean",2,"South Aegean",38,"Sikinos","Dímos","Municipality","S<U+03B9><U+03BA><U+03AF><U+03BD><U+03BF><U+03C5>",NA
+39,89,"GRC","Greece",1,"Aegean",2,"South Aegean",39,"Symi","Dímos","Municipality","S<U+03CD>µ<U+03B7><U+03C2>",NA
+40,89,"GRC","Greece",1,"Aegean",2,"South Aegean",40,"Syros-Ermoupoli","Dímos","Municipality","S<U+03CD><U+03C1><U+03BF><U+03C5> - <U+0395><U+03C1>µ<U+03BF><U+03CD>p<U+03BF><U+03BB><U+03B7><U+03C2>",NA
+41,89,"GRC","Greece",1,"Aegean",2,"South Aegean",41,"Tilos","Dímos","Municipality","<U+03A4><U+03AE><U+03BB><U+03BF><U+03C5>",NA
+42,89,"GRC","Greece",1,"Aegean",2,"South Aegean",42,"Tinos","Dímos","Municipality","<U+03A4><U+03AE><U+03BD><U+03BF><U+03C5>",NA
+43,89,"GRC","Greece",2,"Athos",3,"Athos",43,"Athos","Dímos","Municipality","<U+0386><U+03B8><U+03C9><U+03C2>",NA
+44,89,"GRC","Greece",3,"Attica",4,"Attica ",44,"Acharnes","Dímos","Municipality","<U+0391><U+03C7>a<U+03C1><U+03BD><U+03CE><U+03BD>",NA
+45,89,"GRC","Greece",3,"Attica",4,"Attica ",45,"Aegina","Dímos","Municipality","<U+0391><U+03AF><U+03B3><U+03B9><U+03BD>a<U+03C2>",NA
+46,89,"GRC","Greece",3,"Attica",4,"Attica ",46,"Agia Paraskevi","Dímos","Municipality","<U+0391><U+03B3><U+03AF>a<U+03C2> <U+03A0>a<U+03C1>as<U+03BA>e<U+03C5><U+03AE><U+03C2>",NA
+47,89,"GRC","Greece",3,"Attica",4,"Attica ",47,"Agia Varvara","Dímos","Municipality","<U+0391><U+03B3><U+03AF>a<U+03C2> <U+0392>a<U+03C1>ß<U+03AC><U+03C1>a<U+03C2>",NA
+48,89,"GRC","Greece",3,"Attica",4,"Attica ",48,"Agioi Anargyroi-Kamatero","Dímos","Municipality","<U+0391><U+03B3><U+03AF><U+03C9><U+03BD> <U+0391><U+03BD>a<U+03C1><U+03B3><U+03CD><U+03C1><U+03C9><U+03BD> - <U+039A>aµate<U+03C1><U+03BF><U+03CD>",NA
+49,89,"GRC","Greece",3,"Attica",4,"Attica ",49,"Agios Dimitrios","Dímos","Municipality","<U+0391><U+03B3><U+03AF><U+03BF><U+03C5> <U+0394><U+03B7>µ<U+03B7>t<U+03C1><U+03AF><U+03BF><U+03C5>",NA
+50,89,"GRC","Greece",3,"Attica",4,"Attica ",50,"Aigaleo","Dímos","Municipality","<U+0391><U+03B9><U+03B3><U+03AC><U+03BB>e<U+03C9>",NA
+51,89,"GRC","Greece",3,"Attica",4,"Attica ",51,"Alimos","Dímos","Municipality","<U+0391><U+03BB><U+03AF>µ<U+03BF><U+03C5>",NA
+52,89,"GRC","Greece",3,"Attica",4,"Attica ",52,"Angistri","Dímos","Municipality","<U+0391><U+03B3><U+03BA><U+03B9>st<U+03C1><U+03AF><U+03BF><U+03C5>",NA
+53,89,"GRC","Greece",3,"Attica",4,"Attica ",53,"Aspropyrgos","Dímos","Municipality","<U+0391>sp<U+03C1><U+03BF>p<U+03CD><U+03C1><U+03B3><U+03BF><U+03C5>",NA
+54,89,"GRC","Greece",3,"Attica",4,"Attica ",54,"Athens","Dímos","Municipality","<U+0391><U+03B8><U+03B7><U+03BD>a<U+03AF><U+03C9><U+03BD>",NA
+55,89,"GRC","Greece",3,"Attica",4,"Attica ",55,"Chaidari","Dímos","Municipality","<U+03A7>a<U+03CA>da<U+03C1><U+03AF><U+03BF><U+03C5>",NA
+56,89,"GRC","Greece",3,"Attica",4,"Attica ",56,"Chalandri","Dímos","Municipality","<U+03A7>a<U+03BB>a<U+03BD>d<U+03C1><U+03AF><U+03BF><U+03C5>",NA
+57,89,"GRC","Greece",3,"Attica",4,"Attica ",57,"Cythera ","Dímos","Municipality","<U+039A><U+03C5><U+03B8><U+03AE><U+03C1><U+03C9><U+03BD>",NA
+58,89,"GRC","Greece",3,"Attica",4,"Attica ",58,"Dafni-Ymittos","Dímos","Municipality","<U+0394><U+03AC>f<U+03BD><U+03B7><U+03C2> - <U+03A5>µ<U+03B7>tt<U+03BF><U+03CD>",NA
+59,89,"GRC","Greece",3,"Attica",4,"Attica ",59,"Dionysos","Dímos","Municipality","<U+0394><U+03B9><U+03BF><U+03BD><U+03CD>s<U+03BF><U+03C5>",NA
+60,89,"GRC","Greece",3,"Attica",4,"Attica ",60,"Elefsina","Dímos","Municipality","<U+0395><U+03BB>e<U+03C5>s<U+03AF><U+03BD>a<U+03C2>",NA
+61,89,"GRC","Greece",3,"Attica",4,"Attica ",61,"Elliniko-Argyroupoli","Dímos","Municipality","<U+0395><U+03BB><U+03BB><U+03B7><U+03BD><U+03B9><U+03BA><U+03BF><U+03CD> - <U+0391><U+03C1><U+03B3><U+03C5><U+03C1><U+03BF><U+03CD>p<U+03BF><U+03BB><U+03B7><U+03C2>",NA
+62,89,"GRC","Greece",3,"Attica",4,"Attica ",62,"Filadelfeia-Chalkidona","Dímos","Municipality","F<U+03B9><U+03BB>ade<U+03BB>fe<U+03AF>a<U+03C2> - <U+03A7>a<U+03BB><U+03BA><U+03B7>d<U+03CC><U+03BD><U+03BF><U+03C2>",NA
+63,89,"GRC","Greece",3,"Attica",4,"Attica ",63,"Filothei-Psychiko","Dímos","Municipality","F<U+03B9><U+03BB><U+03BF><U+03B8><U+03AD><U+03B7><U+03C2> - <U+03A8><U+03C5><U+03C7><U+03B9><U+03BA><U+03BF><U+03CD>",NA
+64,89,"GRC","Greece",3,"Attica",4,"Attica ",64,"Fyli","Dímos","Municipality","F<U+03C5><U+03BB><U+03AE><U+03C2>",NA
+65,89,"GRC","Greece",3,"Attica",4,"Attica ",65,"Galatsi","Dímos","Municipality","Ga<U+03BB>ats<U+03AF><U+03BF><U+03C5>",NA
+66,89,"GRC","Greece",3,"Attica",4,"Attica ",66,"Glyfada","Dímos","Municipality","G<U+03BB><U+03C5>f<U+03AC>da<U+03C2>",NA
+67,89,"GRC","Greece",3,"Attica",4,"Attica ",67,"Hydra ","Dímos","Municipality","<U+038E>d<U+03C1>a<U+03C2>",NA
+68,89,"GRC","Greece",3,"Attica",4,"Attica ",68,"Ilio","Dímos","Municipality","<U+0399><U+03BB><U+03AF><U+03BF><U+03C5>",NA
+69,89,"GRC","Greece",3,"Attica",4,"Attica ",69,"Ilioupoli","Dímos","Municipality","<U+0397><U+03BB><U+03B9><U+03BF><U+03C5>p<U+03CC><U+03BB>e<U+03C9><U+03C2>",NA
+70,89,"GRC","Greece",3,"Attica",4,"Attica ",70,"Irakleio","Dímos","Municipality","<U+0397><U+03C1>a<U+03BA><U+03BB>e<U+03AF><U+03BF><U+03C5>",NA
+71,89,"GRC","Greece",3,"Attica",4,"Attica ",71,"Kaisariani","Dímos","Municipality","<U+039A>a<U+03B9>sa<U+03C1><U+03B9>a<U+03BD><U+03AE><U+03C2>",NA
+72,89,"GRC","Greece",3,"Attica",4,"Attica ",72,"Kallithea","Dímos","Municipality","<U+039A>a<U+03BB><U+03BB><U+03B9><U+03B8><U+03AD>a<U+03C2>",NA
+73,89,"GRC","Greece",3,"Attica",4,"Attica ",73,"Keratsini-Drapetsona","Dímos","Municipality","<U+039A>e<U+03C1>ats<U+03B9><U+03BD><U+03AF><U+03BF><U+03C5> - <U+0394><U+03C1>apets<U+03CE><U+03BD>a<U+03C2>",NA
+74,89,"GRC","Greece",3,"Attica",4,"Attica ",74,"Kifisia","Dímos","Municipality","<U+039A><U+03B7>f<U+03B9>s<U+03B9><U+03AC><U+03C2>",NA
+75,89,"GRC","Greece",3,"Attica",4,"Attica ",75,"Korydallos","Dímos","Municipality","<U+039A><U+03BF><U+03C1><U+03C5>da<U+03BB><U+03BB><U+03BF><U+03CD>",NA
+76,89,"GRC","Greece",3,"Attica",4,"Attica ",76,"Kropia","Dímos","Municipality","<U+039A><U+03C1><U+03C9>p<U+03AF>a<U+03C2>",NA
+77,89,"GRC","Greece",3,"Attica",4,"Attica ",77,"Lavreotiki","Dímos","Municipality","<U+039B>a<U+03C5><U+03C1>e<U+03C9>t<U+03B9><U+03BA><U+03AE><U+03C2>",NA
+78,89,"GRC","Greece",3,"Attica",4,"Attica ",78,"Lykovrysi-Pefki","Dímos","Municipality","<U+039B><U+03C5><U+03BA><U+03CC>ß<U+03C1><U+03C5>s<U+03B7><U+03C2> - <U+03A0>e<U+03CD><U+03BA><U+03B7><U+03C2>",NA
+79,89,"GRC","Greece",3,"Attica",4,"Attica ",79,"Mandra-Eidyllia","Dímos","Municipality","<U+039C><U+03AC><U+03BD>d<U+03C1>a<U+03C2> - <U+0395><U+03B9>d<U+03C5><U+03BB><U+03BB><U+03AF>a<U+03C2>",NA
+80,89,"GRC","Greece",3,"Attica",4,"Attica ",80,"Marathon","Dímos","Municipality","<U+039C>a<U+03C1>a<U+03B8><U+03CE><U+03BD><U+03BF><U+03C2>",NA
+81,89,"GRC","Greece",3,"Attica",4,"Attica ",81,"Markopoulo Mesogaias","Dímos","Municipality","<U+039C>a<U+03C1><U+03BA><U+03BF>p<U+03BF><U+03CD><U+03BB><U+03BF><U+03C5> <U+039C>es<U+03BF><U+03B3>a<U+03AF>a<U+03C2>",NA
+82,89,"GRC","Greece",3,"Attica",4,"Attica ",82,"Marousi","Dímos","Municipality","<U+0391>µa<U+03C1><U+03BF><U+03C5>s<U+03AF><U+03BF><U+03C5>",NA
+83,89,"GRC","Greece",3,"Attica",4,"Attica ",83,"Megara","Dímos","Municipality","<U+039C>e<U+03B3>a<U+03C1><U+03AD><U+03C9><U+03BD>",NA
+84,89,"GRC","Greece",3,"Attica",4,"Attica ",84,"Metamorfosi","Dímos","Municipality","<U+039C>etaµ<U+03BF><U+03C1>f<U+03CE>se<U+03C9><U+03C2>",NA
+85,89,"GRC","Greece",3,"Attica",4,"Attica ",85,"Moschato-Tavros","Dímos","Municipality","<U+039C><U+03BF>s<U+03C7><U+03AC>t<U+03BF><U+03C5> - <U+03A4>a<U+03CD><U+03C1><U+03BF><U+03C5>",NA
+86,89,"GRC","Greece",3,"Attica",4,"Attica ",86,"Nea Ionia","Dímos","Municipality","<U+039D><U+03AD>a<U+03C2> <U+0399><U+03C9><U+03BD><U+03AF>a<U+03C2>",NA
+87,89,"GRC","Greece",3,"Attica",4,"Attica ",87,"Nea Smyrni","Dímos","Municipality","<U+039D><U+03AD>a<U+03C2> Sµ<U+03CD><U+03C1><U+03BD><U+03B7><U+03C2>",NA
+88,89,"GRC","Greece",3,"Attica",4,"Attica ",88,"Nikaia-Agios Ioannis Rentis","Dímos","Municipality","<U+039D><U+03AF><U+03BA>a<U+03B9>a<U+03C2> - <U+0391><U+03B3><U+03AF><U+03BF><U+03C5> <U+0399><U+03C9><U+03AC><U+03BD><U+03BD><U+03B7> <U+03A1><U+03AD><U+03BD>t<U+03B7>",NA
+89,89,"GRC","Greece",3,"Attica",4,"Attica ",89,"Oropos","Dímos","Municipality","O<U+03C1><U+03C9>p<U+03BF><U+03CD>",NA
+90,89,"GRC","Greece",3,"Attica",4,"Attica ",90,"Paiania","Dímos","Municipality","<U+03A0>a<U+03B9>a<U+03BD><U+03AF>a<U+03C2>",NA
+91,89,"GRC","Greece",3,"Attica",4,"Attica ",91,"Palaio Faliro","Dímos","Municipality","<U+03A0>a<U+03BB>a<U+03B9><U+03BF><U+03CD> Fa<U+03BB><U+03AE><U+03C1><U+03BF><U+03C5>",NA
+92,89,"GRC","Greece",3,"Attica",4,"Attica ",92,"Pallini","Dímos","Municipality","<U+03A0>a<U+03BB><U+03BB><U+03AE><U+03BD><U+03B7><U+03C2>",NA
+93,89,"GRC","Greece",3,"Attica",4,"Attica ",93,"Papagou-Cholargos","Dímos","Municipality","<U+03A0>ap<U+03AC><U+03B3><U+03BF><U+03C5> - <U+03A7><U+03BF><U+03BB>a<U+03C1><U+03B3><U+03BF><U+03CD>",NA
+94,89,"GRC","Greece",3,"Attica",4,"Attica ",94,"Penteli","Dímos","Municipality","<U+03A0>e<U+03BD>t<U+03AD><U+03BB><U+03B7><U+03C2>",NA
+95,89,"GRC","Greece",3,"Attica",4,"Attica ",95,"Perama","Dímos","Municipality","<U+03A0>e<U+03C1><U+03AC>µat<U+03BF><U+03C2>",NA
+96,89,"GRC","Greece",3,"Attica",4,"Attica ",96,"Peristeri","Dímos","Municipality","<U+03A0>e<U+03C1><U+03B9>ste<U+03C1><U+03AF><U+03BF><U+03C5>",NA
+97,89,"GRC","Greece",3,"Attica",4,"Attica ",97,"Petroupoli","Dímos","Municipality","<U+03A0>et<U+03C1><U+03BF><U+03C5>p<U+03CC><U+03BB>e<U+03C9><U+03C2>",NA
+98,89,"GRC","Greece",3,"Attica",4,"Attica ",98,"Piraeus","Dímos","Municipality","<U+03A0>e<U+03B9><U+03C1>a<U+03B9><U+03CE><U+03C2>",NA
+99,89,"GRC","Greece",3,"Attica",4,"Attica ",99,"Poros","Dímos","Municipality","<U+03A0><U+03CC><U+03C1><U+03BF><U+03C5>",NA
+100,89,"GRC","Greece",3,"Attica",4,"Attica ",100,"Rafina-Pikermi","Dímos","Municipality","<U+03A1>af<U+03AE><U+03BD>a<U+03C2> - <U+03A0><U+03B9><U+03BA>e<U+03C1>µ<U+03AF><U+03BF><U+03C5>",NA
+101,89,"GRC","Greece",3,"Attica",4,"Attica ",101,"Salamis Island","Dímos","Municipality","Sa<U+03BB>aµ<U+03AF><U+03BD><U+03BF><U+03C2>",NA
+102,89,"GRC","Greece",3,"Attica",4,"Attica ",102,"Saronikos","Dímos","Municipality","Sa<U+03C1><U+03C9><U+03BD><U+03B9><U+03BA><U+03BF><U+03CD>",NA
+103,89,"GRC","Greece",3,"Attica",4,"Attica ",103,"Spata-Artemida","Dímos","Municipality","Sp<U+03AC>t<U+03C9><U+03BD> - <U+0391><U+03C1>t<U+03AD>µ<U+03B9>d<U+03BF><U+03C2>",NA
+104,89,"GRC","Greece",3,"Attica",4,"Attica ",104,"Spetses","Dímos","Municipality","Spets<U+03CE><U+03BD>",NA
+105,89,"GRC","Greece",3,"Attica",4,"Attica ",105,"Troizinia-Methana","Dímos","Municipality","<U+03A4><U+03C1><U+03BF><U+03B9><U+03B6><U+03B7><U+03BD><U+03AF>a-<U+039C><U+03AD><U+03B8>a<U+03BD>a",NA
+106,89,"GRC","Greece",3,"Attica",4,"Attica ",106,"Vari-Voula-Vouliagmeni","Dímos","Municipality","<U+0392><U+03AC><U+03C1><U+03B7><U+03C2> - <U+0392><U+03BF><U+03CD><U+03BB>a<U+03C2> - <U+0392><U+03BF><U+03C5><U+03BB><U+03B9>a<U+03B3>µ<U+03AD><U+03BD><U+03B7><U+03C2>",NA
+107,89,"GRC","Greece",3,"Attica",4,"Attica ",107,"Vrilissia","Dímos","Municipality","<U+0392><U+03C1><U+03B9><U+03BB><U+03B7>ss<U+03AF><U+03C9><U+03BD>",NA
+108,89,"GRC","Greece",3,"Attica",4,"Attica ",108,"Vyronas","Dímos","Municipality","<U+0392><U+03CD><U+03C1><U+03C9><U+03BD><U+03BF><U+03C2>",NA
+109,89,"GRC","Greece",3,"Attica",4,"Attica ",109,"Zografou","Dímos","Municipality","<U+0396><U+03C9><U+03B3><U+03C1><U+03AC>f<U+03BF><U+03C5>",NA
+110,89,"GRC","Greece",4,"Crete",5,"Crete",110,"Agios Nikolaos","Dímos","Municipality","<U+0391><U+03B3><U+03AF><U+03BF><U+03C5> <U+039D><U+03B9><U+03BA><U+03BF><U+03BB><U+03AC><U+03BF><U+03C5>",NA
+111,89,"GRC","Greece",4,"Crete",5,"Crete",111,"Agios Vasileios","Dímos","Municipality","<U+0391><U+03B3><U+03AF><U+03BF><U+03C5> <U+0392>as<U+03B9><U+03BB>e<U+03AF><U+03BF><U+03C5>",NA
+112,89,"GRC","Greece",4,"Crete",5,"Crete",112,"Amari ","Dímos","Municipality","<U+0391>µ<U+03AC><U+03C1><U+03B9><U+03BF><U+03C5>",NA
+113,89,"GRC","Greece",4,"Crete",5,"Crete",113,"Anogeia","Dímos","Municipality","<U+0391><U+03BD><U+03C9><U+03B3>e<U+03AF><U+03C9><U+03BD>",NA
+114,89,"GRC","Greece",4,"Crete",5,"Crete",114,"Apokoronas","Dímos","Municipality","<U+0391>p<U+03BF><U+03BA><U+03BF><U+03C1><U+03CE><U+03BD><U+03BF><U+03C5>",NA
+115,89,"GRC","Greece",4,"Crete",5,"Crete",115,"Archanes-Asterousia","Dímos","Municipality","<U+0391><U+03C1><U+03C7>a<U+03BD><U+03CE><U+03BD> - <U+0391>ste<U+03C1><U+03BF><U+03C5>s<U+03AF><U+03C9><U+03BD>",NA
+116,89,"GRC","Greece",4,"Crete",5,"Crete",116,"Chania","Dímos","Municipality","<U+03A7>a<U+03BD><U+03AF><U+03C9><U+03BD>",NA
+117,89,"GRC","Greece",4,"Crete",5,"Crete",117,"Chersonisos","Dímos","Municipality","<U+03A7>e<U+03C1>s<U+03BF><U+03BD><U+03AE>s<U+03BF><U+03C5>",NA
+118,89,"GRC","Greece",4,"Crete",5,"Crete",118,"Faistos","Dímos","Municipality","Fa<U+03B9>st<U+03BF><U+03CD>",NA
+119,89,"GRC","Greece",4,"Crete",5,"Crete",119,"Gavdos","Dímos","Municipality","Ga<U+03CD>d<U+03BF><U+03C5>",NA
+120,89,"GRC","Greece",4,"Crete",5,"Crete",120,"Gortyna","Dímos","Municipality","G<U+03CC><U+03C1>t<U+03C5><U+03BD>a<U+03C2>",NA
+121,89,"GRC","Greece",4,"Crete",5,"Crete",121,"Heraklion","Dímos","Municipality","<U+0397><U+03C1>a<U+03BA><U+03BB>e<U+03AF><U+03BF><U+03C5>",NA
+122,89,"GRC","Greece",4,"Crete",5,"Crete",122,"Ierapetra","Dímos","Municipality","<U+0399>e<U+03C1><U+03AC>pet<U+03C1>a<U+03C2>",NA
+123,89,"GRC","Greece",4,"Crete",5,"Crete",123,"Kantanos-Selino","Dímos","Municipality","<U+039A>a<U+03BD>t<U+03AC><U+03BD><U+03BF><U+03C5> - Se<U+03BB><U+03AF><U+03BD><U+03BF><U+03C5>",NA
+124,89,"GRC","Greece",4,"Crete",5,"Crete",124,"Kissamos","Dímos","Municipality","<U+039A><U+03B9>ss<U+03AC>µ<U+03BF><U+03C5>",NA
+125,89,"GRC","Greece",4,"Crete",5,"Crete",125,"Malevizi","Dímos","Municipality","<U+039C>a<U+03BB>eß<U+03B9><U+03B6><U+03AF><U+03BF><U+03C5>",NA
+126,89,"GRC","Greece",4,"Crete",5,"Crete",126,"Minoa Pediada","Dímos","Municipality","<U+039C><U+03B9><U+03BD><U+03CE>a <U+03A0>ed<U+03B9><U+03AC>da<U+03C2>",NA
+127,89,"GRC","Greece",4,"Crete",5,"Crete",127,"Mylopotamos","Dímos","Municipality","<U+039C><U+03C5><U+03BB><U+03BF>p<U+03BF>t<U+03AC>µ<U+03BF><U+03C5>",NA
+128,89,"GRC","Greece",4,"Crete",5,"Crete",128,"Oropedio Lasithiou","Dímos","Municipality","<U+039F><U+03C1><U+03BF>ped<U+03AF><U+03BF><U+03C5> <U+039B>as<U+03B9><U+03B8><U+03AF><U+03BF><U+03C5>",NA
+129,89,"GRC","Greece",4,"Crete",5,"Crete",129,"Platanias","Dímos","Municipality","<U+03A0><U+03BB>ata<U+03BD><U+03B9><U+03AC>",NA
+130,89,"GRC","Greece",4,"Crete",5,"Crete",130,"Rethymno","Dímos","Municipality","<U+03A1>e<U+03B8><U+03CD>µ<U+03BD><U+03BF><U+03C5>",NA
+131,89,"GRC","Greece",4,"Crete",5,"Crete",131,"Sfakia","Dímos","Municipality","Sfa<U+03BA><U+03AF><U+03C9><U+03BD>",NA
+132,89,"GRC","Greece",4,"Crete",5,"Crete",132,"Sitia","Dímos","Municipality","S<U+03B7>te<U+03AF>a<U+03C2>",NA
+133,89,"GRC","Greece",4,"Crete",5,"Crete",133,"Viannos","Dímos","Municipality","<U+0392><U+03B9><U+03AC><U+03BD><U+03BD><U+03BF><U+03C5>",NA
+134,89,"GRC","Greece",5,"Epirus and Western Macedonia",6,"Epirus ",134,"Arta","Dímos","Municipality","<U+0391><U+03C1>ta<U+03AF><U+03C9><U+03BD>",NA
+135,89,"GRC","Greece",5,"Epirus and Western Macedonia",6,"Epirus ",135,"Central Tzoumerka","Dímos","Municipality","<U+039A>e<U+03BD>t<U+03C1><U+03B9><U+03BA><U+03CE><U+03BD> <U+03A4><U+03B6><U+03BF><U+03C5>µ<U+03AD><U+03C1><U+03BA><U+03C9><U+03BD>",NA
+136,89,"GRC","Greece",5,"Epirus and Western Macedonia",6,"Epirus ",136,"Dodoni","Dímos","Municipality","<U+0394><U+03C9>d<U+03CE><U+03BD><U+03B7><U+03C2>",NA
+137,89,"GRC","Greece",5,"Epirus and Western Macedonia",6,"Epirus ",137,"Filiates","Dímos","Municipality","F<U+03B9><U+03BB><U+03B9>at<U+03CE><U+03BD>",NA
+138,89,"GRC","Greece",5,"Epirus and Western Macedonia",6,"Epirus ",138,"Georgios Karaiskakis ","Dímos","Municipality","Ge<U+03C9><U+03C1><U+03B3><U+03AF><U+03BF><U+03C5> <U+039A>a<U+03C1>a<U+03CA>s<U+03BA><U+03AC><U+03BA><U+03B7>",NA
+139,89,"GRC","Greece",5,"Epirus and Western Macedonia",6,"Epirus ",139,"Igoumenitsa","Dímos","Municipality","<U+0397><U+03B3><U+03BF><U+03C5>µe<U+03BD><U+03AF>tsa<U+03C2>",NA
+140,89,"GRC","Greece",5,"Epirus and Western Macedonia",6,"Epirus ",140,"Ioannina","Dímos","Municipality","<U+0399><U+03C9>a<U+03BD><U+03BD><U+03B9>t<U+03CE><U+03BD>",NA
+141,89,"GRC","Greece",5,"Epirus and Western Macedonia",6,"Epirus ",141,"Konitsa","Dímos","Municipality","<U+039A><U+03CC><U+03BD><U+03B9>tsa<U+03C2>",NA
+142,89,"GRC","Greece",5,"Epirus and Western Macedonia",6,"Epirus ",142,"Metsovo","Dímos","Municipality","<U+039C>ets<U+03CC>ß<U+03BF><U+03C5>",NA
+143,89,"GRC","Greece",5,"Epirus and Western Macedonia",6,"Epirus ",143,"Nikolaos Skoufas ","Dímos","Municipality","<U+039D><U+03B9><U+03BA><U+03BF><U+03BB><U+03AC><U+03BF><U+03C5> S<U+03BA><U+03BF><U+03C5>f<U+03AC>",NA
+144,89,"GRC","Greece",5,"Epirus and Western Macedonia",6,"Epirus ",144,"North Tzoumerka","Dímos","Municipality","<U+0392><U+03BF><U+03C1>e<U+03AF><U+03C9><U+03BD> <U+03A4><U+03B6><U+03BF><U+03C5>µ<U+03AD><U+03C1><U+03BA><U+03C9><U+03BD>",NA
+145,89,"GRC","Greece",5,"Epirus and Western Macedonia",6,"Epirus ",145,"Parga","Dímos","Municipality","<U+03A0><U+03AC><U+03C1><U+03B3>a<U+03C2>",NA
+146,89,"GRC","Greece",5,"Epirus and Western Macedonia",6,"Epirus ",146,"Pogoni","Dímos","Municipality","<U+03A0><U+03C9><U+03B3><U+03C9><U+03BD><U+03AF><U+03BF><U+03C5>",NA
+147,89,"GRC","Greece",5,"Epirus and Western Macedonia",6,"Epirus ",147,"Preveza","Dímos","Municipality","<U+03A0><U+03C1><U+03AD>ße<U+03B6>a<U+03C2>",NA
+148,89,"GRC","Greece",5,"Epirus and Western Macedonia",6,"Epirus ",148,"Souli","Dímos","Municipality","S<U+03BF><U+03C5><U+03BB><U+03AF><U+03BF><U+03C5>",NA
+149,89,"GRC","Greece",5,"Epirus and Western Macedonia",6,"Epirus ",149,"Zagori","Dímos","Municipality","<U+0396>a<U+03B3><U+03BF><U+03C1><U+03AF><U+03BF><U+03C5>",NA
+150,89,"GRC","Greece",5,"Epirus and Western Macedonia",6,"Epirus ",150,"Ziros","Dímos","Municipality","<U+0396><U+03B7><U+03C1><U+03BF><U+03CD>",NA
+151,89,"GRC","Greece",5,"Epirus and Western Macedonia",6,"Epirus ",151,"Zitsa","Dímos","Municipality","<U+0396><U+03AF>tsa<U+03C2>",NA
+152,89,"GRC","Greece",5,"Epirus and Western Macedonia",7,"West Macedonia",152,"Amyntaio","Dímos","Municipality","<U+0391>µ<U+03C5><U+03BD>ta<U+03AF><U+03BF><U+03C5>",NA
+153,89,"GRC","Greece",5,"Epirus and Western Macedonia",7,"West Macedonia",153,"Deskati","Dímos","Municipality","<U+0394>es<U+03BA><U+03AC>t<U+03B7><U+03C2>",NA
+154,89,"GRC","Greece",5,"Epirus and Western Macedonia",7,"West Macedonia",154,"Eordaia","Dímos","Municipality","<U+0395><U+03BF><U+03C1>da<U+03AF>a<U+03C2>",NA
+155,89,"GRC","Greece",5,"Epirus and Western Macedonia",7,"West Macedonia",155,"Florina","Dímos","Municipality","F<U+03BB><U+03CE><U+03C1><U+03B9><U+03BD>a<U+03C2>",NA
+156,89,"GRC","Greece",5,"Epirus and Western Macedonia",7,"West Macedonia",156,"Grevena","Dímos","Municipality","G<U+03C1>eße<U+03BD><U+03CE><U+03BD>",NA
+157,89,"GRC","Greece",5,"Epirus and Western Macedonia",7,"West Macedonia",157,"Kastoria","Dímos","Municipality","<U+039A>ast<U+03BF><U+03C1><U+03B9><U+03AC><U+03C2>",NA
+158,89,"GRC","Greece",5,"Epirus and Western Macedonia",7,"West Macedonia",158,"Kozani","Dímos","Municipality","<U+039A><U+03BF><U+03B6><U+03AC><U+03BD><U+03B7><U+03C2>",NA
+159,89,"GRC","Greece",5,"Epirus and Western Macedonia",7,"West Macedonia",159,"Nestorio","Dímos","Municipality","<U+039D>est<U+03BF><U+03C1><U+03AF><U+03BF><U+03C5>",NA
+160,89,"GRC","Greece",5,"Epirus and Western Macedonia",7,"West Macedonia",160,"Orestida","Dímos","Municipality","<U+039F><U+03C1>est<U+03AF>d<U+03BF><U+03C2>",NA
+161,89,"GRC","Greece",5,"Epirus and Western Macedonia",7,"West Macedonia",161,"Prespes","Dímos","Municipality","<U+03A0><U+03C1>esp<U+03CE><U+03BD>",NA
+162,89,"GRC","Greece",5,"Epirus and Western Macedonia",7,"West Macedonia",162,"Servia-Velventos","Dímos","Municipality","Se<U+03C1>ß<U+03AF><U+03C9><U+03BD> - <U+0392>e<U+03BB>ße<U+03BD>t<U+03BF><U+03CD>",NA
+163,89,"GRC","Greece",5,"Epirus and Western Macedonia",7,"West Macedonia",163,"Voio ","Dímos","Municipality","<U+0392><U+03BF><U+0390><U+03BF><U+03C5>",NA
+164,89,"GRC","Greece",6,"Macedonia and Thrace",8,"Central Macedonia",164,"Alexandria","Dímos","Municipality","<U+0391><U+03BB>e<U+03BE><U+03AC><U+03BD>d<U+03C1>e<U+03B9>a<U+03C2>",NA
+165,89,"GRC","Greece",6,"Macedonia and Thrace",8,"Central Macedonia",165,"Almopia","Dímos","Municipality","<U+0391><U+03BB>µ<U+03C9>p<U+03AF>a<U+03C2>",NA
+166,89,"GRC","Greece",6,"Macedonia and Thrace",8,"Central Macedonia",166,"Ampelokipoi-Menemeni","Dímos","Municipality","<U+0391>µpe<U+03BB><U+03BF><U+03BA><U+03AE>p<U+03C9><U+03BD> - <U+039C>e<U+03BD>eµ<U+03AD><U+03BD><U+03B7><U+03C2>",NA
+167,89,"GRC","Greece",6,"Macedonia and Thrace",8,"Central Macedonia",167,"Amphipolis","Dímos","Municipality","<U+0391>µf<U+03AF>p<U+03BF><U+03BB><U+03B7><U+03C2>",NA
+168,89,"GRC","Greece",6,"Macedonia and Thrace",8,"Central Macedonia",168,"Aristotelis ","Dímos","Municipality","<U+0391><U+03C1><U+03B9>st<U+03BF>t<U+03AD><U+03BB><U+03B7>",NA
+169,89,"GRC","Greece",6,"Macedonia and Thrace",8,"Central Macedonia",169,"Chalkidona","Dímos","Municipality","<U+03A7>a<U+03BB><U+03BA><U+03B7>d<U+03CC><U+03BD><U+03BF><U+03C2>",NA
+170,89,"GRC","Greece",6,"Macedonia and Thrace",8,"Central Macedonia",170,"Delta","Dímos","Municipality","<U+0394><U+03AD><U+03BB>ta",NA
+171,89,"GRC","Greece",6,"Macedonia and Thrace",8,"Central Macedonia",171,"Dio-Olympos","Dímos","Municipality","<U+0394><U+03AF><U+03BF><U+03C5> - <U+039F><U+03BB><U+03CD>µp<U+03BF><U+03C5>",NA
+172,89,"GRC","Greece",6,"Macedonia and Thrace",8,"Central Macedonia",172,"Edessa","Dímos","Municipality","<U+0388>dessa<U+03C2>",NA
+173,89,"GRC","Greece",6,"Macedonia and Thrace",8,"Central Macedonia",173,"Emmanouil Pappas","Dímos","Municipality","<U+0395>µµa<U+03BD><U+03BF><U+03C5><U+03AE><U+03BB> <U+03A0>app<U+03AC>",NA
+174,89,"GRC","Greece",6,"Macedonia and Thrace",8,"Central Macedonia",174,"Irakleia","Dímos","Municipality","<U+0397><U+03C1>a<U+03BA><U+03BB>e<U+03AF>a<U+03C2>",NA
+175,89,"GRC","Greece",6,"Macedonia and Thrace",8,"Central Macedonia",175,"Kalamaria","Dímos","Municipality","<U+039A>a<U+03BB>aµa<U+03C1><U+03B9><U+03AC><U+03C2>",NA
+176,89,"GRC","Greece",6,"Macedonia and Thrace",8,"Central Macedonia",176,"Kassandra","Dímos","Municipality","<U+039A>ass<U+03AC><U+03BD>d<U+03C1>a<U+03C2>",NA
+177,89,"GRC","Greece",6,"Macedonia and Thrace",8,"Central Macedonia",177,"Katerini","Dímos","Municipality","<U+039A>ate<U+03C1><U+03AF><U+03BD><U+03B7><U+03C2>",NA
+178,89,"GRC","Greece",6,"Macedonia and Thrace",8,"Central Macedonia",178,"Kilkis","Dímos","Municipality","<U+039A><U+03B9><U+03BB><U+03BA><U+03AF><U+03C2>",NA
+179,89,"GRC","Greece",6,"Macedonia and Thrace",8,"Central Macedonia",179,"Kordelio-Evosmos","Dímos","Municipality","<U+039A><U+03BF><U+03C1>de<U+03BB><U+03B9><U+03BF><U+03CD> - <U+0395><U+03C5><U+03CC>sµ<U+03BF><U+03C5>",NA
+180,89,"GRC","Greece",6,"Macedonia and Thrace",8,"Central Macedonia",180,"Langadas","Dímos","Municipality","<U+039B>a<U+03B3><U+03BA>ad<U+03AC>",NA
+181,89,"GRC","Greece",6,"Macedonia and Thrace",8,"Central Macedonia",181,"Naousa","Dímos","Municipality","<U+039D><U+03AC><U+03BF><U+03C5>sa<U+03C2>",NA
+182,89,"GRC","Greece",6,"Macedonia and Thrace",8,"Central Macedonia",182,"Nea Propontida","Dímos","Municipality","<U+039A>a<U+03BB><U+03BB><U+03B9><U+03BA><U+03C1><U+03AC>te<U+03B9>a<U+03C2> - <U+039C><U+03BF><U+03C5>da<U+03BD><U+03B9><U+03CE><U+03BD>",NA
+183,89,"GRC","Greece",6,"Macedonia and Thrace",8,"Central Macedonia",183,"Nea Zichni","Dímos","Municipality","<U+039D><U+03AD>a<U+03C2> <U+0396><U+03AF><U+03C7><U+03BD><U+03B7><U+03C2>",NA
+184,89,"GRC","Greece",6,"Macedonia and Thrace",8,"Central Macedonia",184,"Neapoli-Sykies","Dímos","Municipality","<U+039D>e<U+03AC>p<U+03BF><U+03BB><U+03B7><U+03C2> - S<U+03C5><U+03BA>e<U+03CE><U+03BD>",NA
+185,89,"GRC","Greece",6,"Macedonia and Thrace",8,"Central Macedonia",185,"Oraiokastro","Dímos","Municipality","O<U+03C1>a<U+03B9><U+03BF><U+03BA><U+03AC>st<U+03C1><U+03BF><U+03C5>",NA
+186,89,"GRC","Greece",6,"Macedonia and Thrace",8,"Central Macedonia",186,"Paionia ","Dímos","Municipality","<U+03A0>a<U+03B9><U+03BF><U+03BD><U+03AF>a<U+03C2>",NA
+187,89,"GRC","Greece",6,"Macedonia and Thrace",8,"Central Macedonia",187,"Pavlos Melas ","Dímos","Municipality","<U+03A0>a<U+03CD><U+03BB><U+03BF><U+03C5> <U+039C>e<U+03BB><U+03AC>",NA
+188,89,"GRC","Greece",6,"Macedonia and Thrace",8,"Central Macedonia",188,"Pella ","Dímos","Municipality","<U+0391><U+03C1><U+03C7>a<U+03AF>a<U+03C2> <U+03A0><U+03AD><U+03BB><U+03BB>a<U+03C2>",NA
+189,89,"GRC","Greece",6,"Macedonia and Thrace",8,"Central Macedonia",189,"Polygyros","Dímos","Municipality","<U+03A0><U+03BF><U+03BB><U+03C5><U+03B3><U+03CD><U+03C1><U+03BF><U+03C5>",NA
+190,89,"GRC","Greece",6,"Macedonia and Thrace",8,"Central Macedonia",190,"Pydna-Kolindros","Dímos","Municipality","<U+03A0><U+03CD>d<U+03BD>a<U+03C2> - <U+039A><U+03BF><U+03BB><U+03B9><U+03BD>d<U+03C1><U+03BF><U+03CD>",NA
+191,89,"GRC","Greece",6,"Macedonia and Thrace",8,"Central Macedonia",191,"Pylaia-Chortiatis","Dímos","Municipality","<U+03A0><U+03C5><U+03BB>a<U+03AF>a<U+03C2> - <U+03A7><U+03BF><U+03C1>t<U+03B9><U+03AC>t<U+03B7>",NA
+192,89,"GRC","Greece",6,"Macedonia and Thrace",8,"Central Macedonia",192,"Serres","Dímos","Municipality","Se<U+03C1><U+03C1><U+03CE><U+03BD>",NA
+193,89,"GRC","Greece",6,"Macedonia and Thrace",8,"Central Macedonia",193,"Sintiki","Dímos","Municipality","S<U+03B9><U+03BD>t<U+03B9><U+03BA><U+03AE><U+03C2>",NA
+194,89,"GRC","Greece",6,"Macedonia and Thrace",8,"Central Macedonia",194,"Sithonia","Dímos","Municipality","S<U+03B9><U+03B8><U+03C9><U+03BD><U+03AF>a<U+03C2>",NA
+195,89,"GRC","Greece",6,"Macedonia and Thrace",8,"Central Macedonia",195,"Skydra","Dímos","Municipality","S<U+03BA><U+03CD>d<U+03C1>a<U+03C2>",NA
+196,89,"GRC","Greece",6,"Macedonia and Thrace",8,"Central Macedonia",196,"Thermaikos","Dímos","Municipality","Te<U+03C1>µa<U+03CA><U+03BA><U+03BF><U+03CD>",NA
+197,89,"GRC","Greece",6,"Macedonia and Thrace",8,"Central Macedonia",197,"Thermi","Dímos","Municipality","T<U+03AD><U+03C1>µ<U+03B7><U+03C2>",NA
+198,89,"GRC","Greece",6,"Macedonia and Thrace",8,"Central Macedonia",198,"Thessaloniki","Dímos","Municipality","Tessa<U+03BB><U+03BF><U+03BD><U+03AF><U+03BA><U+03B7><U+03C2>",NA
+199,89,"GRC","Greece",6,"Macedonia and Thrace",8,"Central Macedonia",199,"Veria","Dímos","Municipality","<U+0392><U+03AD><U+03C1><U+03BF><U+03B9>a<U+03C2>",NA
+200,89,"GRC","Greece",6,"Macedonia and Thrace",8,"Central Macedonia",200,"Visaltia","Dímos","Municipality","<U+0392><U+03B9>sa<U+03BB>t<U+03AF>a<U+03C2>",NA
+201,89,"GRC","Greece",6,"Macedonia and Thrace",8,"Central Macedonia",201,"Volvi ","Dímos","Municipality","<U+0392><U+03CC><U+03BB>ß<U+03B7><U+03C2>",NA
+202,89,"GRC","Greece",6,"Macedonia and Thrace",9,"East Macedonia and Thrace",202,"Abdera","Dímos","Municipality","<U+0391>ßd<U+03AE><U+03C1><U+03C9><U+03BD>",NA
+203,89,"GRC","Greece",6,"Macedonia and Thrace",9,"East Macedonia and Thrace",203,"Alexandroupoli","Dímos","Municipality","<U+0391><U+03BB>e<U+03BE>a<U+03BD>d<U+03C1><U+03BF><U+03CD>p<U+03BF><U+03BB><U+03B7><U+03C2>",NA
+204,89,"GRC","Greece",6,"Macedonia and Thrace",9,"East Macedonia and Thrace",204,"Arriana","Dímos","Municipality","<U+0391><U+03C1><U+03C1><U+03B9>a<U+03BD><U+03CE><U+03BD>",NA
+205,89,"GRC","Greece",6,"Macedonia and Thrace",9,"East Macedonia and Thrace",205,"Didymoteicho","Dímos","Municipality","<U+0394><U+03B9>d<U+03C5>µ<U+03BF>te<U+03AF><U+03C7><U+03BF><U+03C5>",NA
+206,89,"GRC","Greece",6,"Macedonia and Thrace",9,"East Macedonia and Thrace",206,"Doxato","Dímos","Municipality","<U+0394><U+03BF><U+03BE><U+03AC>t<U+03BF><U+03C5>",NA
+207,89,"GRC","Greece",6,"Macedonia and Thrace",9,"East Macedonia and Thrace",207,"Drama","Dímos","Municipality","<U+0394><U+03C1><U+03AC>µa<U+03C2>",NA
+208,89,"GRC","Greece",6,"Macedonia and Thrace",9,"East Macedonia and Thrace",208,"Iasmos","Dímos","Municipality","<U+0399><U+03AC>sµ<U+03BF><U+03C5>",NA
+209,89,"GRC","Greece",6,"Macedonia and Thrace",9,"East Macedonia and Thrace",209,"Kato Nevrokopi","Dímos","Municipality","<U+039A><U+03AC>t<U+03C9> <U+039D>e<U+03C5><U+03C1><U+03BF><U+03BA><U+03BF>p<U+03AF><U+03BF><U+03C5>",NA
+210,89,"GRC","Greece",6,"Macedonia and Thrace",9,"East Macedonia and Thrace",210,"Kavala","Dímos","Municipality","<U+039A>aß<U+03AC><U+03BB>a<U+03C2>",NA
+211,89,"GRC","Greece",6,"Macedonia and Thrace",9,"East Macedonia and Thrace",211,"Komotini","Dímos","Municipality","<U+039A><U+03BF>µ<U+03BF>t<U+03B7><U+03BD><U+03AE><U+03C2>",NA
+212,89,"GRC","Greece",6,"Macedonia and Thrace",9,"East Macedonia and Thrace",212,"Maroneia-Sapes","Dímos","Municipality","<U+039C>a<U+03C1><U+03CE><U+03BD>e<U+03B9>a<U+03C2> - Sap<U+03CE><U+03BD>",NA
+213,89,"GRC","Greece",6,"Macedonia and Thrace",9,"East Macedonia and Thrace",213,"Myki","Dímos","Municipality","<U+039C><U+03CD><U+03BA><U+03B7><U+03C2>",NA
+214,89,"GRC","Greece",6,"Macedonia and Thrace",9,"East Macedonia and Thrace",214,"Nestos ","Dímos","Municipality","<U+039D><U+03AD>st<U+03BF><U+03C5>",NA
+215,89,"GRC","Greece",6,"Macedonia and Thrace",9,"East Macedonia and Thrace",215,"Orestiada","Dímos","Municipality","<U+039F><U+03C1>est<U+03B9><U+03AC>da<U+03C2>",NA
+216,89,"GRC","Greece",6,"Macedonia and Thrace",9,"East Macedonia and Thrace",216,"Pangaio","Dímos","Municipality","<U+03A0>a<U+03B3><U+03B3>a<U+03AF><U+03BF><U+03C5>",NA
+217,89,"GRC","Greece",6,"Macedonia and Thrace",9,"East Macedonia and Thrace",217,"Paranesti","Dímos","Municipality","<U+03A0>a<U+03C1>a<U+03BD>est<U+03AF><U+03BF><U+03C5>",NA
+218,89,"GRC","Greece",6,"Macedonia and Thrace",9,"East Macedonia and Thrace",218,"Prosotsani","Dímos","Municipality","<U+03A0><U+03C1><U+03BF>s<U+03BF>ts<U+03AC><U+03BD><U+03B7><U+03C2>",NA
+219,89,"GRC","Greece",6,"Macedonia and Thrace",9,"East Macedonia and Thrace",219,"Samothrace","Dímos","Municipality","Saµ<U+03BF><U+03B8><U+03C1><U+03AC><U+03BA><U+03B7><U+03C2>",NA
+220,89,"GRC","Greece",6,"Macedonia and Thrace",9,"East Macedonia and Thrace",220,"Soufli","Dímos","Municipality","S<U+03BF><U+03C5>f<U+03BB><U+03AF><U+03BF><U+03C5>",NA
+221,89,"GRC","Greece",6,"Macedonia and Thrace",9,"East Macedonia and Thrace",221,"Thasos","Dímos","Municipality","T<U+03AC>s<U+03BF><U+03C5>",NA
+222,89,"GRC","Greece",6,"Macedonia and Thrace",9,"East Macedonia and Thrace",222,"Topeiros","Dímos","Municipality","<U+03A4><U+03BF>pe<U+03AF><U+03C1><U+03BF><U+03C5>",NA
+223,89,"GRC","Greece",6,"Macedonia and Thrace",9,"East Macedonia and Thrace",223,"Xanthi","Dímos","Municipality","<U+039E><U+03AC><U+03BD><U+03B8><U+03B7><U+03C2>",NA
+224,89,"GRC","Greece",7,"Peloponnese, Western Greece and the Ionian Islands",10,"Ionian Islands ",224,"Cephalonia","Dímos","Municipality","<U+039A>efa<U+03BB><U+03BF><U+03BD><U+03B9><U+03AC><U+03C2>",NA
+225,89,"GRC","Greece",7,"Peloponnese, Western Greece and the Ionian Islands",10,"Ionian Islands ",225,"Corfu","Dímos","Municipality","<U+039A><U+03AD><U+03C1><U+03BA><U+03C5><U+03C1>a<U+03C2>",NA
+226,89,"GRC","Greece",7,"Peloponnese, Western Greece and the Ionian Islands",10,"Ionian Islands ",226,"Ithaca","Dímos","Municipality","<U+0399><U+03B8><U+03AC><U+03BA><U+03B7><U+03C2>",NA
+227,89,"GRC","Greece",7,"Peloponnese, Western Greece and the Ionian Islands",10,"Ionian Islands ",227,"Lefkada","Dímos","Municipality","<U+039B>e<U+03C5><U+03BA><U+03AC>da<U+03C2>",NA
+228,89,"GRC","Greece",7,"Peloponnese, Western Greece and the Ionian Islands",10,"Ionian Islands ",228,"Meganisi","Dímos","Municipality","<U+039C>e<U+03B3>a<U+03BD><U+03B7>s<U+03AF><U+03BF><U+03C5>",NA
+229,89,"GRC","Greece",7,"Peloponnese, Western Greece and the Ionian Islands",10,"Ionian Islands ",229,"Paxi","Dímos","Municipality","<U+03A0>a<U+03BE><U+03CE><U+03BD>",NA
+230,89,"GRC","Greece",7,"Peloponnese, Western Greece and the Ionian Islands",10,"Ionian Islands ",230,"Zakynthos","Dímos","Municipality","<U+0396>a<U+03BA><U+03CD><U+03BD><U+03B8><U+03BF><U+03C5>",NA
+231,89,"GRC","Greece",7,"Peloponnese, Western Greece and the Ionian Islands",11,"Peloponnese ",231,"Argos-Mykines","Dímos","Municipality","<U+0386><U+03C1><U+03B3><U+03BF><U+03C5><U+03C2> - <U+039C><U+03C5><U+03BA><U+03B7><U+03BD><U+03CE><U+03BD>",NA
+232,89,"GRC","Greece",7,"Peloponnese, Western Greece and the Ionian Islands",11,"Peloponnese ",232,"Corinth ","Dímos","Municipality","<U+039A><U+03BF><U+03C1><U+03B9><U+03BD><U+03B8><U+03AF><U+03C9><U+03BD>",NA
+233,89,"GRC","Greece",7,"Peloponnese, Western Greece and the Ionian Islands",11,"Peloponnese ",233,"East Mani","Dímos","Municipality","<U+0391><U+03BD>at<U+03BF><U+03BB><U+03B9><U+03BA><U+03AE><U+03C2> <U+039C><U+03AC><U+03BD><U+03B7><U+03C2>",NA
+234,89,"GRC","Greece",7,"Peloponnese, Western Greece and the Ionian Islands",11,"Peloponnese ",234,"Elafonisos","Dímos","Municipality","<U+0395><U+03BB>af<U+03BF><U+03BD><U+03AE>s<U+03BF><U+03C5>",NA
+235,89,"GRC","Greece",7,"Peloponnese, Western Greece and the Ionian Islands",11,"Peloponnese ",235,"Epidaurus","Dímos","Municipality","<U+0395>p<U+03B9>da<U+03CD><U+03C1><U+03BF><U+03C5>",NA
+236,89,"GRC","Greece",7,"Peloponnese, Western Greece and the Ionian Islands",11,"Peloponnese ",236,"Ermionida","Dímos","Municipality","<U+0395><U+03C1>µ<U+03B9><U+03BF><U+03BD><U+03AF>da<U+03C2>",NA
+237,89,"GRC","Greece",7,"Peloponnese, Western Greece and the Ionian Islands",11,"Peloponnese ",237,"Evrotas ","Dímos","Municipality","<U+0395><U+03C5><U+03C1><U+03CE>ta",NA
+238,89,"GRC","Greece",7,"Peloponnese, Western Greece and the Ionian Islands",11,"Peloponnese ",238,"Gortynia","Dímos","Municipality","G<U+03BF><U+03C1>t<U+03C5><U+03BD><U+03AF>a<U+03C2>",NA
+239,89,"GRC","Greece",7,"Peloponnese, Western Greece and the Ionian Islands",11,"Peloponnese ",239,"Kalamata","Dímos","Municipality","<U+039A>a<U+03BB>aµ<U+03AC>ta<U+03C2>",NA
+240,89,"GRC","Greece",7,"Peloponnese, Western Greece and the Ionian Islands",11,"Peloponnese ",240,"Loutraki-Agioi Theodoroi","Dímos","Municipality","<U+039B><U+03BF><U+03C5>t<U+03C1>a<U+03BA><U+03AF><U+03BF><U+03C5> - <U+0391><U+03B3><U+03AF><U+03C9><U+03BD> Te<U+03BF>d<U+03CE><U+03C1><U+03C9><U+03BD>",NA
+241,89,"GRC","Greece",7,"Peloponnese, Western Greece and the Ionian Islands",11,"Peloponnese ",241,"Megalopolis","Dímos","Municipality","<U+039C>e<U+03B3>a<U+03BB><U+03CC>p<U+03BF><U+03BB><U+03B7><U+03C2>",NA
+242,89,"GRC","Greece",7,"Peloponnese, Western Greece and the Ionian Islands",11,"Peloponnese ",242,"Messini","Dímos","Municipality","<U+039C>ess<U+03AE><U+03BD><U+03B7><U+03C2>",NA
+243,89,"GRC","Greece",7,"Peloponnese, Western Greece and the Ionian Islands",11,"Peloponnese ",243,"Monemvasia","Dímos","Municipality","<U+039C><U+03BF><U+03BD>eµßas<U+03B9><U+03AC><U+03C2>",NA
+244,89,"GRC","Greece",7,"Peloponnese, Western Greece and the Ionian Islands",11,"Peloponnese ",244,"Nafplio","Dímos","Municipality","<U+039D>a<U+03C5>p<U+03BB><U+03B9><U+03AD><U+03C9><U+03BD>",NA
+245,89,"GRC","Greece",7,"Peloponnese, Western Greece and the Ionian Islands",11,"Peloponnese ",245,"Nemea ","Dímos","Municipality","<U+039D>eµ<U+03AD>a<U+03C2>",NA
+246,89,"GRC","Greece",7,"Peloponnese, Western Greece and the Ionian Islands",11,"Peloponnese ",246,"North Kynouria","Dímos","Municipality","<U+0392><U+03CC><U+03C1>e<U+03B9>a<U+03C2> <U+039A><U+03C5><U+03BD><U+03BF><U+03C5><U+03C1><U+03AF>a<U+03C2>",NA
+247,89,"GRC","Greece",7,"Peloponnese, Western Greece and the Ionian Islands",11,"Peloponnese ",247,"Oichalia","Dímos","Municipality","<U+039F><U+03B9><U+03C7>a<U+03BB><U+03AF>a<U+03C2>",NA
+248,89,"GRC","Greece",7,"Peloponnese, Western Greece and the Ionian Islands",11,"Peloponnese ",248,"Pylos-Nestor","Dímos","Municipality","<U+03A0><U+03CD><U+03BB><U+03BF><U+03C5> - <U+039D><U+03AD>st<U+03BF><U+03C1><U+03BF><U+03C2>",NA
+249,89,"GRC","Greece",7,"Peloponnese, Western Greece and the Ionian Islands",11,"Peloponnese ",249,"Sikyona","Dímos","Municipality","S<U+03B9><U+03BA><U+03C5><U+03C9><U+03BD><U+03AF><U+03C9><U+03BD>",NA
+250,89,"GRC","Greece",7,"Peloponnese, Western Greece and the Ionian Islands",11,"Peloponnese ",250,"South Kynouria","Dímos","Municipality","<U+039D><U+03CC>t<U+03B9>a<U+03C2> <U+039A><U+03C5><U+03BD><U+03BF><U+03C5><U+03C1><U+03AF>a<U+03C2>",NA
+251,89,"GRC","Greece",7,"Peloponnese, Western Greece and the Ionian Islands",11,"Peloponnese ",251,"Sparti ","Dímos","Municipality","Sp<U+03AC><U+03C1>t<U+03B7><U+03C2>",NA
+252,89,"GRC","Greece",7,"Peloponnese, Western Greece and the Ionian Islands",11,"Peloponnese ",252,"Trifylia","Dímos","Municipality","<U+03A4><U+03C1><U+03B9>f<U+03C5><U+03BB><U+03BB><U+03AF>a<U+03C2>",NA
+253,89,"GRC","Greece",7,"Peloponnese, Western Greece and the Ionian Islands",11,"Peloponnese ",253,"Tripoli","Dímos","Municipality","<U+03A4><U+03C1><U+03AF>p<U+03BF><U+03BB><U+03B7><U+03C2>",NA
+254,89,"GRC","Greece",7,"Peloponnese, Western Greece and the Ionian Islands",11,"Peloponnese ",254,"Velo-Vocha","Dímos","Municipality","<U+0392><U+03AD><U+03BB><U+03BF><U+03C5> - <U+0392><U+03BF><U+03C7>a<U+03C2>",NA
+255,89,"GRC","Greece",7,"Peloponnese, Western Greece and the Ionian Islands",11,"Peloponnese ",255,"West Mani","Dímos","Municipality","<U+0394><U+03C5>t<U+03B9><U+03BA><U+03AE><U+03C2> <U+039C><U+03AC><U+03BD><U+03B7><U+03C2>",NA
+256,89,"GRC","Greece",7,"Peloponnese, Western Greece and the Ionian Islands",11,"Peloponnese ",256,"Xylokastro-Evrostina","Dímos","Municipality","<U+039E><U+03C5><U+03BB><U+03BF><U+03BA><U+03AC>st<U+03C1><U+03BF><U+03C5> - <U+0395><U+03C5><U+03C1><U+03C9>st<U+03AF><U+03BD><U+03B7><U+03C2>",NA
+257,89,"GRC","Greece",7,"Peloponnese, Western Greece and the Ionian Islands",12,"West Greece",257,"Agrinio","Dímos","Municipality","<U+0391><U+03B3><U+03C1><U+03B9><U+03BD><U+03AF><U+03BF><U+03C5>",NA
+258,89,"GRC","Greece",7,"Peloponnese, Western Greece and the Ionian Islands",12,"West Greece",258,"Aigialeia","Dímos","Municipality","<U+0391><U+03B9><U+03B3><U+03B9>a<U+03BB>e<U+03AF>a<U+03C2>",NA
+259,89,"GRC","Greece",7,"Peloponnese, Western Greece and the Ionian Islands",12,"West Greece",259,"Aktio-Vonitsa","Dímos","Municipality","<U+0386><U+03BA>t<U+03B9><U+03BF><U+03C5> - <U+0392><U+03CC><U+03BD><U+03B9>tsa<U+03C2>",NA
+260,89,"GRC","Greece",7,"Peloponnese, Western Greece and the Ionian Islands",12,"West Greece",260,"Amfilochia","Dímos","Municipality","<U+0391>µf<U+03B9><U+03BB><U+03BF><U+03C7><U+03AF>a<U+03C2>",NA
+261,89,"GRC","Greece",7,"Peloponnese, Western Greece and the Ionian Islands",12,"West Greece",261,"Andravida-Kyllini","Dímos","Municipality","<U+039A><U+03C5><U+03BB><U+03BB><U+03AE><U+03BD><U+03B7><U+03C2>",NA
+262,89,"GRC","Greece",7,"Peloponnese, Western Greece and the Ionian Islands",12,"West Greece",262,"Andritsaina-Krestena","Dímos","Municipality","<U+0391><U+03BD>d<U+03C1><U+03B9>tsa<U+03AF><U+03BD>a<U+03C2> - <U+039A><U+03C1>est<U+03AD><U+03BD><U+03C9><U+03BD>",NA
+263,89,"GRC","Greece",7,"Peloponnese, Western Greece and the Ionian Islands",12,"West Greece",263,"Erymanthos ","Dímos","Municipality","<U+0395><U+03C1><U+03C5>µ<U+03AC><U+03BD><U+03B8><U+03BF><U+03C5>",NA
+264,89,"GRC","Greece",7,"Peloponnese, Western Greece and the Ionian Islands",12,"West Greece",264,"Ilida ","Dímos","Municipality","<U+0397><U+03BB><U+03AF>da<U+03C2>",NA
+265,89,"GRC","Greece",7,"Peloponnese, Western Greece and the Ionian Islands",12,"West Greece",265,"Kalavryta","Dímos","Municipality","<U+039A>a<U+03BB>aß<U+03C1><U+03CD>t<U+03C9><U+03BD>",NA
+266,89,"GRC","Greece",7,"Peloponnese, Western Greece and the Ionian Islands",12,"West Greece",266,"Missolonghi","Dímos","Municipality","<U+0399>e<U+03C1><U+03AC><U+03C2> <U+03A0><U+03CC><U+03BB><U+03B7><U+03C2> <U+039C>es<U+03BF><U+03BB><U+03BF><U+03B3><U+03B3><U+03AF><U+03BF><U+03C5>",NA
+267,89,"GRC","Greece",7,"Peloponnese, Western Greece and the Ionian Islands",12,"West Greece",267,"Nafpaktia","Dímos","Municipality","<U+039D>a<U+03C5>pa<U+03BA>t<U+03AF>a<U+03C2>",NA
+268,89,"GRC","Greece",7,"Peloponnese, Western Greece and the Ionian Islands",12,"West Greece",268,"Olympia","Dímos","Municipality","<U+0391><U+03C1><U+03C7>a<U+03AF>a<U+03C2> <U+039F><U+03BB><U+03C5>µp<U+03AF>a<U+03C2>",NA
+269,89,"GRC","Greece",7,"Peloponnese, Western Greece and the Ionian Islands",12,"West Greece",269,"Patras","Dímos","Municipality","<U+03A0>at<U+03C1><U+03AD><U+03C9><U+03BD>",NA
+270,89,"GRC","Greece",7,"Peloponnese, Western Greece and the Ionian Islands",12,"West Greece",270,"Pineios ","Dímos","Municipality","<U+03A0><U+03B7><U+03BD>e<U+03B9><U+03BF><U+03CD>",NA
+271,89,"GRC","Greece",7,"Peloponnese, Western Greece and the Ionian Islands",12,"West Greece",271,"Pyrgos","Dímos","Municipality","<U+03A0><U+03CD><U+03C1><U+03B3><U+03BF><U+03C5>",NA
+272,89,"GRC","Greece",7,"Peloponnese, Western Greece and the Ionian Islands",12,"West Greece",272,"Thermo","Dímos","Municipality","T<U+03AD><U+03C1>µ<U+03BF><U+03C5>",NA
+273,89,"GRC","Greece",7,"Peloponnese, Western Greece and the Ionian Islands",12,"West Greece",273,"West Achaea","Dímos","Municipality","<U+0394><U+03C5>t<U+03B9><U+03BA><U+03AE><U+03C2> <U+0391><U+03C7>a<U+0390>a<U+03C2>",NA
+274,89,"GRC","Greece",7,"Peloponnese, Western Greece and the Ionian Islands",12,"West Greece",274,"Xiromero","Dímos","Municipality","<U+039E><U+03B7><U+03C1><U+03BF>µ<U+03AD><U+03C1><U+03BF><U+03C5>",NA
+275,89,"GRC","Greece",7,"Peloponnese, Western Greece and the Ionian Islands",12,"West Greece",275,"Zacharo","Dímos","Municipality","<U+0396>a<U+03C7><U+03AC><U+03C1><U+03C9><U+03C2>",NA
+276,89,"GRC","Greece",8,"Thessaly and Central Greece",13,"Central Greece ",276,"Agrafa ","Dímos","Municipality","<U+0391><U+03B3><U+03C1><U+03AC>f<U+03C9><U+03BD>",NA
+277,89,"GRC","Greece",8,"Thessaly and Central Greece",13,"Central Greece ",277,"Aliartos","Dímos","Municipality","<U+0391><U+03BB><U+03B9><U+03AC><U+03C1>t<U+03BF><U+03C5>",NA
+278,89,"GRC","Greece",8,"Thessaly and Central Greece",13,"Central Greece ",278,"Amfikleia-Elateia","Dímos","Municipality","<U+0391>µf<U+03AF><U+03BA><U+03BB>e<U+03B9>a<U+03C2> - <U+0395><U+03BB><U+03AC>te<U+03B9>a<U+03C2>",NA
+279,89,"GRC","Greece",8,"Thessaly and Central Greece",13,"Central Greece ",279,"Chalcis","Dímos","Municipality","<U+03A7>a<U+03BB><U+03BA><U+03B9>d<U+03AD><U+03C9><U+03BD>",NA
+280,89,"GRC","Greece",8,"Thessaly and Central Greece",13,"Central Greece ",280,"Delphi","Dímos","Municipality","<U+0394>e<U+03BB>f<U+03CE><U+03BD>",NA
+281,89,"GRC","Greece",8,"Thessaly and Central Greece",13,"Central Greece ",281,"Dirfys-Messapia","Dímos","Municipality","<U+0394><U+03B9><U+03C1>f<U+03CD><U+03C9><U+03BD> - <U+039C>essap<U+03AF><U+03C9><U+03BD>",NA
+282,89,"GRC","Greece",8,"Thessaly and Central Greece",13,"Central Greece ",282,"Distomo-Arachova-Antikyra","Dímos","Municipality","<U+0394><U+03B9>st<U+03CC>µ<U+03BF><U+03C5> - <U+0391><U+03C1><U+03AC><U+03C7><U+03BF>ßa<U+03C2> - <U+0391><U+03BD>t<U+03B9><U+03BA><U+03CD><U+03C1>a<U+03C2>",NA
+283,89,"GRC","Greece",8,"Thessaly and Central Greece",13,"Central Greece ",283,"Domokos","Dímos","Municipality","<U+0394><U+03BF>µ<U+03BF><U+03BA><U+03BF><U+03CD>",NA
+284,89,"GRC","Greece",8,"Thessaly and Central Greece",13,"Central Greece ",284,"Dorida","Dímos","Municipality","<U+0394><U+03C9><U+03C1><U+03AF>d<U+03BF><U+03C2>",NA
+285,89,"GRC","Greece",8,"Thessaly and Central Greece",13,"Central Greece ",285,"Eretria","Dímos","Municipality","<U+0395><U+03C1><U+03AD>t<U+03C1><U+03B9>a<U+03C2>",NA
+286,89,"GRC","Greece",8,"Thessaly and Central Greece",13,"Central Greece ",286,"Istiaia-Aidipsos","Dímos","Municipality","<U+0399>st<U+03B9>a<U+03AF>a<U+03C2> - <U+0391><U+03B9>d<U+03B7><U+03C8><U+03BF><U+03CD>",NA
+287,89,"GRC","Greece",8,"Thessaly and Central Greece",13,"Central Greece ",287,"Karpenisi","Dímos","Municipality","<U+039A>a<U+03C1>pe<U+03BD><U+03B7>s<U+03AF><U+03BF><U+03C5>",NA
+288,89,"GRC","Greece",8,"Thessaly and Central Greece",13,"Central Greece ",288,"Karystos","Dímos","Municipality","<U+039A>a<U+03C1><U+03CD>st<U+03BF><U+03C5>",NA
+289,89,"GRC","Greece",8,"Thessaly and Central Greece",13,"Central Greece ",289,"Kymi-Aliveri","Dímos","Municipality","<U+039A><U+03CD>µ<U+03B7><U+03C2> - <U+0391><U+03BB><U+03B9>ße<U+03C1><U+03AF><U+03BF><U+03C5>",NA
+290,89,"GRC","Greece",8,"Thessaly and Central Greece",13,"Central Greece ",290,"Lamia ","Dímos","Municipality","<U+039B>aµ<U+03B9><U+03AD><U+03C9><U+03BD>",NA
+291,89,"GRC","Greece",8,"Thessaly and Central Greece",13,"Central Greece ",291,"Livadeia","Dímos","Municipality","<U+039B>eßad<U+03AD><U+03C9><U+03BD>",NA
+292,89,"GRC","Greece",8,"Thessaly and Central Greece",13,"Central Greece ",292,"Lokroi ","Dímos","Municipality","<U+039B><U+03BF><U+03BA><U+03C1><U+03CE><U+03BD>",NA
+293,89,"GRC","Greece",8,"Thessaly and Central Greece",13,"Central Greece ",293,"Makrakomi","Dímos","Municipality","<U+039C>a<U+03BA><U+03C1>a<U+03BA><U+03CE>µ<U+03B7><U+03C2>",NA
+294,89,"GRC","Greece",8,"Thessaly and Central Greece",13,"Central Greece ",294,"Mantoudi-Limni-Agia Anna","Dímos","Municipality","<U+039C>a<U+03BD>t<U+03BF><U+03C5>d<U+03AF><U+03BF><U+03C5> - <U+039B><U+03AF>µ<U+03BD><U+03B7><U+03C2>",NA
+295,89,"GRC","Greece",8,"Thessaly and Central Greece",13,"Central Greece ",295,"Molos-Agios Konstantinos","Dímos","Municipality","<U+039C><U+03CE><U+03BB><U+03BF><U+03C5> - <U+0391><U+03B3><U+03AF><U+03BF><U+03C5> <U+039A><U+03C9><U+03BD>sta<U+03BD>t<U+03AF><U+03BD><U+03BF><U+03C5>",NA
+296,89,"GRC","Greece",8,"Thessaly and Central Greece",13,"Central Greece ",296,"Orchomenus ","Dímos","Municipality","<U+039F><U+03C1><U+03C7><U+03BF>µe<U+03BD><U+03BF><U+03CD>",NA
+297,89,"GRC","Greece",8,"Thessaly and Central Greece",13,"Central Greece ",297,"Skyros","Dímos","Municipality","S<U+03BA><U+03CD><U+03C1><U+03BF><U+03C5>",NA
+298,89,"GRC","Greece",8,"Thessaly and Central Greece",13,"Central Greece ",298,"Stylida","Dímos","Municipality","St<U+03C5><U+03BB><U+03AF>d<U+03BF><U+03C2>",NA
+299,89,"GRC","Greece",8,"Thessaly and Central Greece",13,"Central Greece ",299,"Tanagra","Dímos","Municipality","<U+03A4>a<U+03BD><U+03AC><U+03B3><U+03C1>a<U+03C2>",NA
+300,89,"GRC","Greece",8,"Thessaly and Central Greece",13,"Central Greece ",300,"Thebes","Dímos","Municipality","T<U+03B7>ßa<U+03AF><U+03C9><U+03BD>",NA
+301,89,"GRC","Greece",8,"Thessaly and Central Greece",14,"Thessaly",301,"Agia","Dímos","Municipality","<U+0391><U+03B3><U+03B9><U+03AC><U+03C2>",NA
+302,89,"GRC","Greece",8,"Thessaly and Central Greece",14,"Thessaly",302,"Almyros","Dímos","Municipality","<U+0391><U+03BB>µ<U+03C5><U+03C1><U+03BF><U+03CD>",NA
+303,89,"GRC","Greece",8,"Thessaly and Central Greece",14,"Thessaly",303,"Alonnisos","Dímos","Municipality","<U+0391><U+03BB><U+03BF><U+03BD><U+03BD><U+03AE>s<U+03BF><U+03C5>",NA
+304,89,"GRC","Greece",8,"Thessaly and Central Greece",14,"Thessaly",304,"Argithea","Dímos","Municipality","<U+0391><U+03C1><U+03B3><U+03B9><U+03B8><U+03AD>a<U+03C2>",NA
+305,89,"GRC","Greece",8,"Thessaly and Central Greece",14,"Thessaly",305,"Elassona","Dímos","Municipality","<U+0395><U+03BB>ass<U+03CC><U+03BD>a<U+03C2>",NA
+306,89,"GRC","Greece",8,"Thessaly and Central Greece",14,"Thessaly",306,"Farkadona","Dímos","Municipality","Fa<U+03C1><U+03BA>ad<U+03CC><U+03BD>a<U+03C2>",NA
+307,89,"GRC","Greece",8,"Thessaly and Central Greece",14,"Thessaly",307,"Farsala","Dímos","Municipality","Fa<U+03C1>s<U+03AC><U+03BB><U+03C9><U+03BD>",NA
+308,89,"GRC","Greece",8,"Thessaly and Central Greece",14,"Thessaly",308,"Kalambaka","Dímos","Municipality","<U+039A>a<U+03BB>aµp<U+03AC><U+03BA>a<U+03C2>",NA
+309,89,"GRC","Greece",8,"Thessaly and Central Greece",14,"Thessaly",309,"Karditsa","Dímos","Municipality","<U+039A>a<U+03C1>d<U+03AF>tsa<U+03C2>",NA
+310,89,"GRC","Greece",8,"Thessaly and Central Greece",14,"Thessaly",310,"Kileler","Dímos","Municipality","<U+039A><U+03B9><U+03BB>e<U+03BB><U+03AD><U+03C1>",NA
+311,89,"GRC","Greece",8,"Thessaly and Central Greece",14,"Thessaly",311,"Lake Plastiras ","Dímos","Municipality","<U+039B><U+03AF>µ<U+03BD><U+03B7><U+03C2> <U+03A0><U+03BB>ast<U+03AE><U+03C1>a",NA
+312,89,"GRC","Greece",8,"Thessaly and Central Greece",14,"Thessaly",312,"Larissa","Dímos","Municipality","<U+039B>a<U+03C1><U+03B9>sa<U+03AF><U+03C9><U+03BD>",NA
+313,89,"GRC","Greece",8,"Thessaly and Central Greece",14,"Thessaly",313,"Mouzaki","Dímos","Municipality","<U+039C><U+03BF><U+03C5><U+03B6>a<U+03BA><U+03AF><U+03BF><U+03C5>",NA
+314,89,"GRC","Greece",8,"Thessaly and Central Greece",14,"Thessaly",314,"Palamas","Dímos","Municipality","<U+03A0>a<U+03BB>aµ<U+03AC>",NA
+315,89,"GRC","Greece",8,"Thessaly and Central Greece",14,"Thessaly",315,"Pyli","Dímos","Municipality","<U+03A0><U+03CD><U+03BB><U+03B7><U+03C2>",NA
+316,89,"GRC","Greece",8,"Thessaly and Central Greece",14,"Thessaly",316,"Rigas Feraios ","Dímos","Municipality","<U+03A1><U+03AE><U+03B3>a Fe<U+03C1>a<U+03AF><U+03BF><U+03C5>",NA
+317,89,"GRC","Greece",8,"Thessaly and Central Greece",14,"Thessaly",317,"Skiathos","Dímos","Municipality","S<U+03BA><U+03B9><U+03AC><U+03B8><U+03BF><U+03C5>",NA
+318,89,"GRC","Greece",8,"Thessaly and Central Greece",14,"Thessaly",318,"Skopelos","Dímos","Municipality","S<U+03BA><U+03BF>p<U+03AD><U+03BB><U+03BF><U+03C5>",NA
+319,89,"GRC","Greece",8,"Thessaly and Central Greece",14,"Thessaly",319,"Sofades","Dímos","Municipality","S<U+03BF>f<U+03AC>d<U+03C9><U+03BD>",NA
+320,89,"GRC","Greece",8,"Thessaly and Central Greece",14,"Thessaly",320,"South Pelion","Dímos","Municipality","<U+039D><U+03BF>t<U+03AF><U+03BF><U+03C5> <U+03A0><U+03B7><U+03BB><U+03AF><U+03BF><U+03C5>",NA
+321,89,"GRC","Greece",8,"Thessaly and Central Greece",14,"Thessaly",321,"Tempi ","Dímos","Municipality","<U+03A4>eµp<U+03CE><U+03BD>",NA
+322,89,"GRC","Greece",8,"Thessaly and Central Greece",14,"Thessaly",322,"Trikala","Dímos","Municipality","<U+03A4><U+03C1><U+03B9><U+03BA><U+03BA>a<U+03AF><U+03C9><U+03BD>",NA
+323,89,"GRC","Greece",8,"Thessaly and Central Greece",14,"Thessaly",323,"Tyrnavos","Dímos","Municipality","<U+03A4><U+03C5><U+03C1><U+03BD><U+03AC>ß<U+03BF><U+03C5>",NA
+324,89,"GRC","Greece",8,"Thessaly and Central Greece",14,"Thessaly",324,"Volos","Dímos","Municipality","<U+0392><U+03CC><U+03BB><U+03BF><U+03C5>",NA
+325,89,"GRC","Greece",8,"Thessaly and Central Greece",14,"Thessaly",325,"Zagora-Mouresi","Dímos","Municipality","<U+0396>a<U+03B3><U+03BF><U+03C1><U+03AC><U+03C2> - <U+039C><U+03BF><U+03C5><U+03C1>es<U+03AF><U+03BF><U+03C5>",NA
